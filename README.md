@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/images/relogio.png" alt="Demonstração do projeto" width="100%">
+  <img src="Assets/images/relogio.png" alt="Demonstração do projeto" width="50%">
 </p>
 
 ## 🕗 Projeto 
