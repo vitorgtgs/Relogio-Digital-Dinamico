@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/relogio.png" alt="Demonstração do projeto" width="100%">
+  <img src="Assets/images/relogio.png" alt="Demonstração do projeto" width="100%">
 </p>
 
 ## 🕗 Projeto 
@@ -13,4 +13,4 @@ Esse projeto foi desenvolvido  com as seguintes tecnologias:
 - JS
 - Git e Github
 
-🔗 [Clique aqui para acessar](https://vitorgtgs.github.io/NLW-Spacetime/)
+🔗 [Clique aqui para acessar](https://vitorgtgs.github.io/Relogio-Digital-Dinamico/)
